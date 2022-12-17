@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Library>
+    <Song>
+        <name>Dear Prudence</name>
+        <artist>Beatles</artist>
+        <album>The White Album</album>
+    </Song>
+    <Song>
+        <name>Glass Onion</name>
+        <artist>Beatles</artist>
+        <album>The White Album</album>
+    </Song>
+    <Song>
+        <name>Lucy In The Sky With Diamonds</name>
+        <artist>Beatles</artist>
+        <album>Sgt. Pepper's Lonely Hearts Club Band</album>
+    </Song>
+    <Song>
+        <name>Lovely Rita</name>
+        <artist>Beatles</artist>
+        <album>Sgt. Pepper's Lonely Hearts Club Band</album>
+    </Song>
+</Library>
